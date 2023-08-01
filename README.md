@@ -1,3 +1,3 @@
 # odin-recipe
-My firt github Repo
+My fisrt github Repo
 Hello Odin
